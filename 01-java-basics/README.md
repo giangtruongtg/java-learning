@@ -4,9 +4,9 @@ This folder contains my learning notes and examples for Java basic concepts.
 
 ## Progress
 
-- [ ] Java Features
-- [ ] Java Application Development Lifecycle
-- [ ] Environment Setup for Java
+- [x] Java Features
+- [x] Java Application Development Lifecycle
+- [x] Environment Setup for Java
 - [ ] Creating First Java Program
 - [ ] Data Types in Java
 - [ ] Literals in Java
